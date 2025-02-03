@@ -1,7 +1,8 @@
 
 
 class GyozaOrder
-
+  attr_accessor :order
+  attr_reader :menu
   def initialize  
     @order = []
     @menu = ["pork gyoza", "vegetable gyoza", "chicken gyoza", "fried rice", "soda", "beer"]
