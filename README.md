@@ -1,5 +1,8 @@
 # ruby-cli-template
+  
+  This is Gyoza shop order app. The user can add, view and update an order from a well establish Gyoza shop!
+  
+#Usage
+run: ruby gyoza_shop.rb
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
-
-- Ruby version: `3.2.1`
+#Ruby version: `3.2.1`
